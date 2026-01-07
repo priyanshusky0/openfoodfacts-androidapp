@@ -591,7 +591,7 @@
     <string name="creator_history" comment="Do not modify the placeholders, and make sure all of them are present in the translation.">Product added on %1$s at %2$s CET by %3$s</string>
     <string name="last_editor_history" comment="Do not modify the placeholders, and make sure all of them are present in the translation.">Last edit of product page on %1$s at %2$s CEST by %3$s </string>
     <!-- TODO: Add the placeholder in the string - important for several languages -->
-    <string name="other_editors">Product page also edited by </string>
+    <string name="other_editors">Product page also edited by %1$s</string>
     <string name="product_states">Product States</string>
     <string name="incomplete_states">Incomplete States</string>
     <string name="complete_states">Complete States</string>
